@@ -1,0 +1,43 @@
+_repo: The-Proof-of-the-Pudding_66354
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Taffs, C. H. (Charles H.)
+    alias: Taffs, Charles H.
+    birthdate: 1876
+    deathdate: 1964
+    gutenberg_agent_id: '37447'
+    url: http://www.gutenberg.org/2009/agents/37447
+creator:
+  author:
+    agent_name: Nicholson, Meredith
+    birthdate: 1866
+    deathdate: 1947
+    gutenberg_agent_id: '4371'
+    url: http://www.gutenberg.org/2009/agents/4371
+    wikipedia: https://en.wikipedia.org/wiki/Meredith_Nicholson
+description: ''
+gutenberg_issued: '2021-09-20'
+identifiers:
+  gutenberg: '66354'
+language: en
+pgterms:marc904: https://archive.org/details/proofofpudding00nichiala/page/n7/mode/2up
+pgterms:marc905: 20200522131052nicholson
+pgterms:marc906: '1915'
+pgterms:marc907: US
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: United States :Houghton Mifflin Company,1915,copyright 1916.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Adoptees -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Indiana -- Social life and customs -- Fiction'
+- !lcsh 'Inheritance and succession -- Fiction'
+- GITenberg
+title: The Proof of the Pudding
+url: http://www.gutenberg.org/ebooks/66354
